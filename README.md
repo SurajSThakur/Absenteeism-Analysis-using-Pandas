@@ -3,4 +3,4 @@ This involved loading and exploring the data, handling missing values, removing 
 
 The outcome was a clean, well-organized dataset poised for analysis, providing actionable insights to stakeholders for improving employee attendance and overall productivity.
 
-Download the file and open it in a browser
+Download the Pandas_Project.1.html file and open it in a browser
